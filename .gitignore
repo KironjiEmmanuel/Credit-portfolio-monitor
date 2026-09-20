@@ -8,4 +8,4 @@ raw/
 processed/
 # the bundled demo DB IS committed (data/loan_portfolio.db) - it is what the deployed app reads
 data/*.db-journal
-glossary.md
+GLOSSARY.md

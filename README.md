@@ -10,7 +10,7 @@ yesterday? Which loans need attention right now?*
 > across officers, and so on. The parameters are illustrative and are **not calibrated to, or derived from,
 > any real institution**. No real borrower, lender or transaction data is used. Amounts are in Kenya shillings (KES).
 
-## What is on the page
+## What is on the dashboard
 
 1. **Verdict row:** PAR% as the headline (with state badge and change vs the previous snapshot), plus tiles for collection efficiency, book size and interest realization, each with a sparkline.
 2. **Trend and "what changed":** PAR across snapshots, and new loans / closures / newly-in-Loss / newly-cold since the last snapshot.

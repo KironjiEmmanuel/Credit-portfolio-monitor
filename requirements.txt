@@ -1,0 +1,7 @@
+streamlit>=1.64,<2
+pandas>=2.2
+numpy>=1.26
+altair>=5.4
+sqlalchemy>=2.0
+# Only needed if you point LOAN_DB_URL at MySQL (the original production target):
+# pymysql>=1.1
